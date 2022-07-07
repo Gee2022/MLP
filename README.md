@@ -1,2 +1,2 @@
-# MLP
-Machine Learning Projects
+# Coursera Labs
+Data science & Machine Learning Projects
